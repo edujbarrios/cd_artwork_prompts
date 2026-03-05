@@ -48,8 +48,6 @@ Replace with your details:
 A minimalist modern CD cover design for "Midnight Dreams" by Alex Rivera...
 ```
 
-📖 **See [EXAMPLES.md](EXAMPLES.md) for more detailed usage examples!**
-
 ## Available Templates
 
 Each folder contains both Spanish and English versions (`spanish.jinja2` and `english.jinja2`):

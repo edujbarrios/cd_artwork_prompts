@@ -34,6 +34,8 @@ Replace with your details:
 A minimalist CD cover for "Midnight Dreams" by Alex Rivera...
 ```
 
+📖 **See [EXAMPLES.md](EXAMPLES.md) for more detailed usage examples in Spanish and English!**
+
 ## Available Templates
 
 ### Contemporary Styles

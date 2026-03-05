@@ -1,0 +1,8 @@
+# CD Artwork AI Prompts
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
